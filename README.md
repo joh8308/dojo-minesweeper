@@ -5,9 +5,9 @@
 14 personnes @ Axa Web Center 13h-15h.
 
 ## Technologies
-1 groupe en Objective-C / OCUnit
-5 groupes en C# / MSTest
-1 groupe en Java / JUnit
+* 1 groupe en Objective-C / OCUnit
+* 5 groupes en C# / MSTest
+* 1 groupe en Java / JUnit
 
 ## Minesweeper
 
