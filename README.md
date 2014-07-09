@@ -62,3 +62,6 @@ Field #2:
 33200
 1*100
 ```
+
+## References
+This subject is copied here for covenience but the real original source is the codingdojo.org website : http://codingdojo.org/cgi-bin/index.pl?KataMinesweeper
