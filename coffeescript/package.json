@@ -1,0 +1,16 @@
+{
+  "name": "minesweeper",
+  "version": "0.0.0",
+  "description": "MineSweeper coffeescript solution",
+  "main": "minesweeper.coffee",
+  "scripts": {
+    "test": "mocha --compilers coffee:coffee-script/register minesweeper.coffee"
+  },
+  "author": "jeanlaurent@morlhon.net",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "coffee-script": "^1.7.1",
+    "mocha": "^1.20.1"
+  }
+}
