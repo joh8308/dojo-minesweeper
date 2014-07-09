@@ -89,9 +89,19 @@ Structure de données rencontrées :
 Structure de données évoquées :
 * Liste des bombes, calcul en direct du résultat de chaque case
 * Liste de cases sous formes de liste chainées.
+* Patron poids-mouche ? http://fr.wikipedia.org/wiki/Poids-mouche_(patron_de_conception)
 
+### Ordre des tests possibles :
 
-
+ 1. Quel est la hauteur ?
+ 2. Quel est la largeur ?
+ 3. Est-ce que en x,y il y a une bombe ?
+ 4. Est-ce que en x,y il n'y a pas de bombe ?
+ 5. Est-ce que si je cherche une bombe en -1,-1 ca n'explose pas ?
+ 6. Est-ce que qu'il y a bien 1 bombe adjacente à x,y
+ 7. Résoudre une map simple du style `.*.\n...``
+ 8. Résoudre une map normale
+ 9. Résoudre deux maps à la suite
 
 
 
