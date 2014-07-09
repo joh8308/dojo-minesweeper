@@ -74,3 +74,25 @@ Field #2:
 
 ## References
 This subject is copied here for covenience but the real original source is the codingdojo.org website : http://codingdojo.org/cgi-bin/index.pl?KataMinesweeper
+
+
+## Restropective
+
+### Structures de données
+Structure de données rencontrées :
+
+* Tableau de chaine à une dimension
+* Tableaux de chaine à 2 dimensions
+* Tableau d'entier à 2 dimensions (le 9 signifie une bombe)
+* Tableau d'objet Case à 2 dimensions
+
+Structure de données évoquées :
+* Liste des bombes, calcul en direct du résultat de chaque case
+* Liste de cases sous formes de liste chainées.
+
+
+
+
+
+
+
